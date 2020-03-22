@@ -1,0 +1,20 @@
+version: "3"
+
+services: 
+  web-server:
+    image: itzg/minecraft-server
+    ports:
+        - "25565:25565"
+    tty: true
+    stdin_open: true
+    restart: always
+    volumes:
+        - ./data:/data
+    environment:
+      VERSION: 1.15.2
+      DIFFICULTY: hard
+      ENABLE_COMMAND_BLOCK: "true"
+      EULA: "true"
+      MIN_RAM: 2G
+      MAX_RAM: 2G
+      PERMGEN_SIZE: 512M
