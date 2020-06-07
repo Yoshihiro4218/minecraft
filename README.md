@@ -1,2 +1,2 @@
 # minecraft
-minecraft_docker
+minecraft server on docker
