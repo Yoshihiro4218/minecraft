@@ -15,6 +15,6 @@ services:
       DIFFICULTY: hard
       ENABLE_COMMAND_BLOCK: "true"
       EULA: "true"
-      MIN_RAM: 2G
-      MAX_RAM: 2G
+      MIN_RAM: 20G
+      MAX_RAM: 20G
       PERMGEN_SIZE: 512M
