@@ -1,109 +1,46 @@
-[13:28:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:28:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:28:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:28:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:28:00] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[13:28:00] [Server thread/INFO]: Loading properties
-[13:28:00] [Server thread/INFO]: Default game type: SURVIVAL
-[13:28:00] [Server thread/INFO]: Generating keypair
-[13:28:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:28:01] [Server thread/INFO]: Using epoll channel type
-[13:28:02] [Server thread/INFO]: Preparing level "world"
-[13:28:02] [Server thread/INFO]: Reloading ResourceManager: Default
-[13:28:11] [Server thread/INFO]: Loaded 6 recipes
-[13:28:16] [Server thread/INFO]: Loaded 825 advancements
-[13:30:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:30:51] [Server thread/INFO]: Preparing spawn area: 0%
-[13:30:51] [Server thread/INFO]: Preparing spawn area: 0%
-[13:30:51] [Server thread/INFO]: Preparing spawn area: 0%
-[13:30:51] [Server thread/INFO]: Preparing spawn area: 0%
-[13:30:51] [Server thread/INFO]: Preparing spawn area: 0%
-[13:30:51] [Server thread/INFO]: Preparing spawn area: 0%
-[13:30:51] [Server thread/INFO]: Preparing spawn area: 0%
-[13:30:51] [Server thread/INFO]: Preparing spawn area: 0%
-[13:30:51] [Server thread/INFO]: Preparing spawn area: 0%
-[13:30:51] [Server thread/INFO]: Preparing spawn area: 0%
-[13:30:51] [Server thread/INFO]: Preparing spawn area: 0%
-[13:30:51] [Server thread/INFO]: Preparing spawn area: 0%
-[13:30:52] [Server-Worker-1/INFO]: Preparing spawn area: 7%
-[13:30:52] [Server-Worker-1/INFO]: Preparing spawn area: 27%
-[13:31:00] [Server-Worker-1/INFO]: Preparing spawn area: 39%
-[13:31:00] [Server thread/INFO]: Preparing spawn area: 39%
-[13:31:00] [Server-Worker-1/INFO]: Preparing spawn area: 39%
-[13:31:00] [Server thread/INFO]: Preparing spawn area: 39%
-[13:31:00] [Server thread/INFO]: Preparing spawn area: 39%
-[13:31:00] [Server thread/INFO]: Preparing spawn area: 39%
-[13:31:00] [Server thread/INFO]: Preparing spawn area: 39%
-[13:31:00] [Server thread/INFO]: Preparing spawn area: 39%
-[13:31:00] [Server thread/INFO]: Preparing spawn area: 39%
-[13:31:00] [Server thread/INFO]: Preparing spawn area: 39%
-[13:31:00] [Server-Worker-1/INFO]: Preparing spawn area: 39%
-[13:31:00] [Server thread/INFO]: Preparing spawn area: 39%
-[13:31:00] [Server-Worker-1/INFO]: Preparing spawn area: 39%
-[13:31:00] [Server thread/INFO]: Preparing spawn area: 39%
-[13:31:00] [Server-Worker-1/INFO]: Preparing spawn area: 39%
-[13:31:00] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:01] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:01] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:02] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:02] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:03] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:03] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:05] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:05] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:05] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:05] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:06] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:06] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:07] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:07] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:08] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:08] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:09] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:09] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:10] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:10] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:11] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:11] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:12] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:12] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:13] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:14] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:14] [Server thread/INFO]: Preparing spawn area: 83%
-[13:31:14] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:15] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[13:31:15] [Server thread/INFO]: Preparing spawn area: 83%
-[13:31:16] [Server-Worker-1/INFO]: Preparing spawn area: 84%
-[13:31:16] [Server-Worker-1/INFO]: Preparing spawn area: 84%
-[13:31:17] [Server-Worker-1/INFO]: Preparing spawn area: 84%
-[13:31:17] [Server-Worker-1/INFO]: Preparing spawn area: 85%
-[13:31:18] [Server thread/INFO]: Preparing spawn area: 85%
-[13:31:18] [Server thread/INFO]: Preparing spawn area: 86%
-[13:31:19] [Server thread/INFO]: Preparing spawn area: 87%
-[13:31:19] [Server-Worker-1/INFO]: Preparing spawn area: 88%
-[13:31:20] [Server-Worker-1/INFO]: Preparing spawn area: 88%
-[13:31:20] [Server-Worker-1/INFO]: Preparing spawn area: 89%
-[13:31:21] [Server thread/INFO]: Preparing spawn area: 91%
-[13:31:21] [Server-Worker-1/INFO]: Preparing spawn area: 94%
-[13:31:22] [Server-Worker-1/INFO]: Preparing spawn area: 96%
-[13:31:22] [Server thread/INFO]: Preparing spawn area: 97%
-[13:31:23] [Server thread/INFO]: Preparing spawn area: 99%
-[13:31:23] [Server thread/INFO]: Time elapsed: 37120 ms
-[13:31:23] [Server thread/INFO]: Done (201.320s)! For help, type "help"
-[13:31:23] [Server thread/INFO]: Starting remote control listener
-[13:31:23] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
-[13:36:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
-[14:05:58] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
-[14:05:58] [Server thread/INFO]: [Rcon: Stopping the server]
-[14:05:58] [Server thread/INFO]: Stopping server
-[14:05:58] [Server thread/INFO]: Saving players
-[14:05:58] [Server thread/INFO]: Saving worlds
-[14:05:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[14:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:05:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[14:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:05:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[14:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:56:55] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:56:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:56:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:56:55] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:56:55] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:56:55] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[13:56:55] [Server thread/INFO]: Loading properties
+[13:56:55] [Server thread/INFO]: Default game type: SURVIVAL
+[13:56:55] [Server thread/INFO]: Generating keypair
+[13:56:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:56:56] [Server thread/INFO]: Using epoll channel type
+[13:56:56] [Server thread/INFO]: Preparing level "world"
+[13:56:56] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:56:57] [Server thread/INFO]: Loaded 6 recipes
+[13:56:58] [Server thread/INFO]: Loaded 825 advancements
+[13:56:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:57:00] [Server thread/INFO]: Preparing spawn area: 0%
+[13:57:00] [Server thread/INFO]: Preparing spawn area: 0%
+[13:57:00] [Server thread/INFO]: Preparing spawn area: 0%
+[13:57:00] [Server thread/INFO]: Preparing spawn area: 0%
+[13:57:00] [Server thread/INFO]: Preparing spawn area: 0%
+[13:57:02] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:57:02] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:57:02] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:57:02] [Server thread/INFO]: Preparing spawn area: 49%
+[13:57:03] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[13:57:03] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[13:57:04] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[13:57:04] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[13:57:05] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[13:57:05] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[13:57:06] [Server-Worker-1/INFO]: Preparing spawn area: 85%
+[13:57:06] [Server-Worker-7/INFO]: Preparing spawn area: 88%
+[13:57:07] [Server-Worker-3/INFO]: Preparing spawn area: 94%
+[13:57:07] [Server thread/INFO]: Time elapsed: 8914 ms
+[13:57:07] [Server thread/INFO]: Done (11.161s)! For help, type "help"
+[13:57:07] [Server thread/INFO]: Starting remote control listener
+[13:57:07] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[13:59:39] [User Authenticator #1/INFO]: UUID of player mizuki77 is 5ff3502a-5268-4569-9a14-eea07652affb
+[13:59:39] [Server thread/INFO]: mizuki77[/125.56.57.103:64022] logged in with entity id 168 at (-178.5, 72.0, 146.5)
+[13:59:40] [Server thread/INFO]: mizuki77 joined the game
+[14:02:49] [Server thread/INFO]: mizuki77 lost connection: Disconnected
+[14:02:49] [Server thread/INFO]: mizuki77 left the game
+[14:02:52] [User Authenticator #2/INFO]: UUID of player mizuki77 is 5ff3502a-5268-4569-9a14-eea07652affb
+[14:02:52] [Server thread/INFO]: mizuki77[/125.56.57.103:64034] logged in with entity id 738 at (-148.62142765976276, 68.0, 131.8510950447783)
+[14:02:52] [Server thread/INFO]: mizuki77 joined the game
